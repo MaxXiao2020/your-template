@@ -1,2 +1,2 @@
-＃your-template
-使用蟒蛇3打开
+＃您的模板
+#使用python3打开
